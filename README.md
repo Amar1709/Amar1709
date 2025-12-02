@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Amar 👋
 
-<!--
-**Amar1709/Amar1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | Big Data | Cloud | Machine Learning (Aspiring MLE)**  
+Building scalable data pipelines, distributed processing systems, and cloud-native solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 2.5+ years of experience in **Python**, **AWS**, and **SQL**
+- Currently learning **PySpark**, **Spark optimization**, and **advanced data engineering**
+- Interested in **Data Engineering**, **ML Engineering**, **Generative AI**, and **Cloud**
+- Goal: Transition into a high-impact role (Data Engineer / ML Engineer) at product companies
+
+---
+
+## 🔧 Tech Stack
+
+### **Data Engineering**
+- PySpark, Apache Spark  
+- Airflow, AWS Glue  
+- AWS EMR, Athena, Lambda  
+- Kafka (learning)
+
+### **Programming**
+- Python  
+- SQL  
+- Bash  
+
+### **Cloud**
+- AWS (S3, EC2, Lambda, Glue, EMR, Step Functions, IAM)
+
+### **Databases**
+- MySQL  
+- PostgreSQL  
+- DynamoDB  
+
+### **Others**
+- Docker  
+- Git/GitHub  
+- CI/CD (GitHub Actions)
+
+---
+
+## 📂 Featured Projects
+Here are some of my key projects (more coming soon):
+
+### **1. End-to-End Data Pipeline (PySpark + Airflow + AWS)**
+An automated batch pipeline using S3 → Airflow → PySpark → Athena.  
+Features partitioning, schema validation, and curated layers.
+
+### **2. Real-Time Streaming Pipeline (Kinesis + Lambda + S3)**
+A streaming ingestion pipeline with batch and real-time layers.
+
+### **3. Machine Learning Project – <Your Project Name>**
+Classical ML / Gen AI project with deployment options.
+
+> Check my repos for full implementations.
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=default" />
+</p>
+
+---
+
+## 🌱 Currently Working On
+- PySpark mastery  
+- AWS Data Engineer Associate certification  
+- Data engineering portfolio  
+- ML engineering fundamentals  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: <your-link>  
+- Email: <your-email>  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration.*
