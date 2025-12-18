@@ -6,7 +6,7 @@ Building scalable data pipelines, distributed processing systems, and cloud-nati
 ---
 
 ## 🚀 About Me
-- 2.5+ years of experience in **Python**, **AWS**, and **SQL**
+- 3 years of experience in **Python**, **AWS**, and **SQL**
 - Currently learning **PySpark**, **Spark optimization**, and **advanced data engineering**
 - Interested in **Data Engineering**, **ML Engineering**, **Generative AI**, and **Cloud**
 - Goal: Transition into a high-impact role (Data Engineer / ML Engineer) at product companies
@@ -58,14 +58,6 @@ Classical ML / Gen AI project with deployment options.
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=default" />
-</p>
-
----
-
 ## 🌱 Currently Working On
 - PySpark mastery  
 - AWS Data Engineer Associate certification  
@@ -75,8 +67,8 @@ Classical ML / Gen AI project with deployment options.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: <your-link>  
-- Email: <your-email>  
+- LinkedIn: <www.linkedin.com/in/amarparameswaran1709>  
+- Email: <amarparam1709@gmail.com>  
 
 ---
 
